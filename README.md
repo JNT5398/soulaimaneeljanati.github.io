@@ -28,8 +28,7 @@ This project showcases a responsive personal portfolio website design. It includ
 
 ## Installation
 
-1. Clone the repository to your local machine using the following command:
-git clone https://github.com/soulaimaneeljanati/soulaimaneeljanati.github.io.git
+1. Clone the repository to your local machine using the following command: `git clone https://github.com/soulaimaneeljanati/soulaimaneeljanati.github.io.git`
 
 
 2. Open the project folder.
