@@ -16,7 +16,7 @@ This is a responsive personal portfolio website design project created by Soulai
 
 ## Description
 
-This project showcases a responsive personal portfolio website design. It includes sections for the home, about, services, portfolio, and contact. The website is designed to be visually appealing and user-friendly, making it suitable for showcasing your personal or professional work.
+This project showcases a responsive personal portfolio website design. It includes sections for the home, about, services, projects, and contact. The website is designed to be visually appealing and user-friendly, making it suitable for showcasing your personal or professional work.
 
 ## Features
 
